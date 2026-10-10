@@ -1,0 +1,9 @@
+# Archivos temporales de Arduino
+build/
+*.hex
+*.elf
+
+# Configuraciones de editores
+.vscode/
+.idea/
+.DS_Store
